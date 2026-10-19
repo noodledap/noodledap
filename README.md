@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdul, IT Support Labs Page</h1>
 
-I am a customer service representative interested in transitioning into it help it support/ help desk. Currently have experience in practicing with security awareness, Linux basics, Microsoft 365, some active directory, networking fundamentals, virtual machine deployment and have been practicing with Jira user support. 
+Interested in the field and currently have experience in practicing with security awareness, Linux basics, Microsoft 365, some active directory, networking fundamentals, virtual machine deployment and have been practicing with Jira user support. 
 
-This is a small portfolio showing hands-on projects that align with roles in service desk, it support, help desk technician and desktop support.
+This is a small portfolio showing hands-on projects that align with roles in ticketing, basic network analysis, simply active directory practice. All this for the roles: IT Support, Service Desk, Desktop Support, Technical Support, Junior Systems Administrator, Junior Network Administrator, Infrastructure Support, and entry-level cybersecurity support roles.
+
+# Roles Targeted For This Page
+
+* Help Desk Technician
+* IT Support Specialist
+* Service Desk Analyst
+* Desktop Support Technician
+* Technical Support Engineer
+* IT Support Technician
+* End User Support Specialist
+* Computer Support Specialist
+* IT Technician
 
 - 🔭 I’m currently working on **Help Desk Ticketing Project**
 
