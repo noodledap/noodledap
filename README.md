@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdul</h1>
-<h3 align="center">A passionate individual interested in it support/help desk</h3>
+<h1 align="center">Hi 👋, I'm Abdul, IT Support Labs Page</h1>
+
+I am a customer service representative interested in transitioning into it help it support/ help desk. Currently have experience in practicing with security awareness, Linux basics, Microsoft 365, some active directory, networking fundamentals, virtual machine deployment and have been practicing with Jira user support. 
+
+This is a small portfolio showing hands-on projects that align with roles in service desk, it support, help desk technician and desktop support.
 
 - 🔭 I’m currently working on **Help Desk Ticketing Project**
 
