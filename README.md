@@ -2,7 +2,7 @@
 
 Interested in the field and currently have experience in practicing with security awareness, Linux basics, Microsoft 365, some active directory, networking fundamentals, virtual machine deployment and have been practicing with Jira user support. 
 
-This is a small portfolio showing hands-on projects that align with roles in ticketing, basic network analysis, simply active directory practice. All this for the roles: IT Support, Service Desk, Desktop Support, Technical Support, Junior Systems Administrator, Junior Network Administrator, Infrastructure Support, and entry-level cybersecurity support roles.
+This is a small portfolio showing hands-on projects that align with roles listed below. This is for my growth as a future it support professional and interested in learning my skills. The current projects as a simple network analysis on Linux, basic Jira ticketing support and documentation as well as a active directory lab.
 
 # Roles Targeted For This Page
 
@@ -16,11 +16,12 @@ This is a small portfolio showing hands-on projects that align with roles in tic
 * Computer Support Specialist
 * IT Technician
 
+
 - 🔭 I’m currently working on **Help Desk Ticketing Project**
 
 - 🌱 I’m currently learning **Active Directory, Technical understanding of servers and networking technologies, Bash and Shell**
 
-- 💬 Ask me about **Basic Computer Hardware, Basic Security Foundamentals, Linux Fundementals and Network Toplogies**
+- 💬 Ask me about **Basic Computer Hardware, Basic Security Fundamentals, Linux Fundamentals and Network Topologies**
 
 - 📫 How to reach me **speed.momentum@gmail.com**
 
