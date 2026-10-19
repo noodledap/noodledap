@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdul</h1>
+<h3 align="center">A passionate individual interested in it support/help desk</h3>
 
-<!--
-**noodledap/noodledap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Help Desk Ticketing Project**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Active Directory, Technical understanding of servers and networking technologies, Bash and Shell**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Basic Computer Hardware, Basic Security Foundamentals, Linux Fundementals and Network Toplogies**
+
+- 📫 How to reach me **speed.momentum@gmail.com**
+
+- 📄 Know about my experiences [10 years Customer Service Experience/](10 years Customer Service Experience/)
+
+- ⚡ Fun fact **I enjoy studying for certificates**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
