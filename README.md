@@ -27,11 +27,31 @@ This is a small portfolio showing hands-on projects that align with roles listed
 
 - 📄 Know about my experiences [10 years Customer Service Experience/](10 years Customer Service Experience/)
 
-- ⚡ Fun fact **I enjoy studying for certificates**
+# IT Portfolio
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
+## 01 · Active Directory Projects
+
+| Project | Notes |
+|---|---|
+| [Password Reset](AD-Practice-Reset) | Reset a user's forgotten password (GUI) |
+| [Add a New User](AD-Adding-New-Users-In-PowerShell) | Create a new user account (GUI) |
+
+## 02 · Files and Permissions Labs
+
+| Project | Notes |
+|---|---|
+| Coming soon | |
+
+## 03 · Ticketing Labs
+
+| Project | Focus |
+|---|---|
+| Coming soon | |
+
+## 04 · Network Projects
+
+| Project | Notes |
+|---|---|
+| Coming soon | |
