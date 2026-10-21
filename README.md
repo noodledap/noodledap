@@ -55,3 +55,23 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 | Project | Notes |
 |---|---|
 | Coming soon | |
+
+## 04 · Certifications
+
+### Earned
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-C8202F)
+![CompTIA A+ Core](https://img.shields.io/badge/CompTIA%20A%2B%20Core-C8202F)
+![LPI Linux Essentials](https://img.shields.io/badge/LPI%20Linux%20Essentials-F0AB00)
+![AZ-900](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4)
+![Google Cybersecurity Professional](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
+
+### In Progress
+
+![CCNA](https://img.shields.io/badge/Cisco%20CCNA-studying-orange)
+
+### Queued
+
+![AZ-104](https://img.shields.io/badge/AZ--104%20Azure%20Administrator-queued-lightgrey)
+![AZ-305](https://img.shields.io/badge/AZ--305%20Azure%20Solutions%20Architect-queued-lightgrey)
+![RHCSA](https://img.shields.io/badge/RHCSA%20Red%20Hat%20Certified%20System%20Administrator-queued-lightgrey)
