@@ -35,8 +35,8 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 
 | Project | Notes |
 |---|---|
-| [Password Reset](AD-Practice-Reset) | Reset a user's forgotten password (GUI) |
-| [Add a New User](AD-Adding-New-Users-In-PowerShell) | Create a new user account (GUI) |
+| [Password Reset](AD-Practice-Reset/) | Reset a user's forgotten password (GUI) |
+| [Add New Users](AD-Adding-New-Users-In-PowerShell/) | Create new user accounts using PowerShell |
 
 ## 02 · Files and Permissions Labs
 
