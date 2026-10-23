@@ -49,7 +49,7 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 
 | Project | Focus |
 |---|---|
-| Coming soon | |
+| [Password Reset Ticket](https://github.com/noodledap/jira-help-desk-ticketing-lab) | |
 
 ## 04 · Network Projects
 
