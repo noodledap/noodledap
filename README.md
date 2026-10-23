@@ -40,7 +40,10 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 
 ## 02 · Files and Permissions Labs
 
-[Network Share Permissions](https://github.com/noodledap/Windows-File-and-Folder-Permissions-Lab) | Configure permissions for a shared folder) 
+| Project | Notes |
+|---|---|
+|[Network Share Permissions](https://github.com/noodledap/Windows-File-and-Folder-Permissions-Lab) | Configure permissions for a shared folder  |
+
 
 ## 03 · Ticketing Labs
 
