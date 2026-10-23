@@ -25,7 +25,7 @@ This is a small portfolio showing hands-on projects that align with roles listed
 
 - 📫 How to reach me **speed.momentum@gmail.com**
 
-- 📄 Know about my experiences [10 years Customer Service Experience/](10 years Customer Service Experience/)
+- 📄 Know about my experiences [10 years Customer Service Experience/]
 
 # IT Portfolio
 
