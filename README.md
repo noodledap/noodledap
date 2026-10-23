@@ -17,13 +17,13 @@ This is a small portfolio showing hands-on projects that align with roles listed
 * IT Technician
 
 
-- 🔭 I’m currently working on **Help Desk Ticketing Project**
+- 🔭 I’m currently working on building a portfolio
 
-- 🌱 I’m currently learning **Active Directory, Technical understanding of servers and networking technologies, Bash and Shell**
+- 🌱 I’m currently learning **Active Directory, Group Policy, Security Groups and Jira Ticketing**
 
 - 💬 Ask me about **Basic Computer Hardware, Basic Security Fundamentals, Linux Fundamentals and Network Topologies**
 
-- 📫 How to reach me **speed.momentum@gmail.com**
+- 📫 How to reach me **abdullahimohamdottawa@gmail.com**
 
 - 📄 Know about my experiences [10 years Customer Service Experience/]
 
