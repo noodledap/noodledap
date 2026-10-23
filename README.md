@@ -40,9 +40,7 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 
 ## 02 · Files and Permissions Labs
 
-| Project | Notes |
-|---|---|
-| Coming soon | |
+[Network Share Permissions]([Network Share Permissions](File-Permissions/) | Configure permissions for a shared folder) | Configure permissions for a shared folder
 
 ## 03 · Ticketing Labs
 
