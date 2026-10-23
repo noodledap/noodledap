@@ -23,7 +23,7 @@ This is a small portfolio showing hands-on projects that align with roles listed
 
 - 💬 Ask me about **Basic Computer Hardware, Basic Security Fundamentals, Linux Fundamentals and Network Topologies**
 
-- 📫 How to reach me **abdullahimohamdottawa@gmail.com**
+- 📫 How to reach me **speed.momentum@gmail.com**
 
 - 📄 Know about my experiences [10 years Customer Service Experience/]
 
@@ -49,7 +49,7 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 
 | Project | Focus |
 |---|---|
-| [Jira Password Ticket](https://github.com/noodledap/jira-help-desk-ticketing-lab) |Create and resolve a help desk password reset ticke |
+| [Jira Password Ticket](https://github.com/noodledap/jira-help-desk-ticketing-lab) |Create and resolve a help desk password reset tickt|
 
 ## 04 · Network Projects
 
