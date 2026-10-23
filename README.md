@@ -62,7 +62,7 @@ Hands-on labs and projects with screenshots and step-by-step walkthroughs.
 ### Earned
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-C8202F)
-![CompTIA A+ Core 1](https://img.shields.io/badge/CompTIA%20A%2B%20Core-C8202F)
+![CompTIA A+ Core 1](https://img.shields.io/badge/CompTIA%20A%2B%20Core%201-C8202F)
 ![LPI Linux Essentials](https://img.shields.io/badge/LPI%20Linux%20Essentials-F0AB00)
 ![AZ-900](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4)
 ![Google Cybersecurity Professional](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
